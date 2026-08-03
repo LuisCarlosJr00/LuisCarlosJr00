@@ -12,7 +12,7 @@
 Estudante de Sistemas de Informação (7º período) no CEST, em busca da minha primeira oportunidade como **desenvolvedor backend**. Tenho praticado construção de APIs e serviços com **Python, Flask, Java e Spring Boot**, além de containerização com **Docker**. Gosto de entender o problema antes de escrever a primeira linha de código.
 
 <details>
-  <summary>🇺🇸 About me (English)</summary>summary>
+  <summary>🇺🇸 About me (English)</summary>
 <br>
 
 Information Systems student (7th semester) at CEST, looking for my first opportunity as a **backend developer**. I've been practicing building APIs and services with **Python, Flask, Java and Spring Boot**, plus containerization with **Docker**. I like understanding the problem before writing the first line of code.
@@ -39,6 +39,7 @@ Information Systems student (7th semester) at CEST, looking for my first opportu
 | [**docker-flask**](https://github.com/LuisCarlosJr00/docker-flask) | To-Do App com Flask + PostgreSQL, rodando em containers Docker atrás de um NGINX — projeto de estudo de Docker e CI/CD. |
 | [**DesafioV-backend**](https://github.com/LuisCarlosJr00/DesafioV-backend) | API REST em Node.js/Express + MongoDB para o projeto Desafio V (destinos e atrações turísticas). |
 | [**DesafioV-frontend**](https://github.com/LuisCarlosJr00/DesafioV-frontend) | Frontend que consome a API do DesafioV-backend para exibir pontos turísticos. |
+| [**estudos-java**](https://github.com/LuisCarlosJr00/estudos-java) | Programas em Java organizados por nível (iniciante, intermediário, avançado): POO, coleções, exceções, generics e streams. |
 
 ## 📊 GitHub Stats
 
@@ -47,13 +48,10 @@ Information Systems student (7th semester) at CEST, looking for my first opportu
   <img src="https://github-readme-stats.vercel.app/api?username=LuisCarlosJr00&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisCarlosJr00&hide_border=true" height="165"/>
 
-  </div>
+</div>
 
-  <div align="center">
+<div align="center">
 
-    📫 Aberto a oportunidades de **estágio em desenvolvimento backend**. Vamos conversar!
+📫 Aberto a oportunidades de **estágio em desenvolvimento backend**. Vamos conversar!
 
-    </div>
-    
-</summary>
-</details>
+</div>
