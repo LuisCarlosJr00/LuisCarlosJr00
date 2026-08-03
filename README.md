@@ -45,7 +45,8 @@ Information Systems student (7th semester) at CEST, looking for my first opportu
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/LuisCarlosJr00/LuisCarlosJr00/main/github-metrics.svg" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisCarlosJr00&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisCarlosJr00&hide_border=true" height="165"/>
 
 </div>
 
