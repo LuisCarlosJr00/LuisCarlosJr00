@@ -25,8 +25,10 @@ Information Systems student (7th semester) at CEST, looking for my first opportu
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
@@ -35,10 +37,8 @@ Information Systems student (7th semester) at CEST, looking for my first opportu
 | Projeto | O que é |
 |---|---|
 | [**docker-flask**](https://github.com/LuisCarlosJr00/docker-flask) | To-Do App com Flask + PostgreSQL, rodando em containers Docker atrás de um NGINX — projeto de estudo de Docker e CI/CD. |
-| [**crud-course**](https://github.com/LuisCarlosJr00/crud-course) | API CRUD em Spring Boot, aplicando estrutura em camadas e boas práticas de backend Java. |
-| [**spring**](https://github.com/LuisCarlosJr00/spring) | Primeiro projeto com Spring Boot — ponto de partida no ecossistema Java para backend. |
-| [**DesafioV-backend**](https://github.com/LuisCarlosJr00/DesafioV-backend) | API de um desafio prático, com o front correspondente em [DesafioV-frontend](https://github.com/LuisCarlosJr00/DesafioV-frontend). |
-| [**Portif-lio**](https://github.com/LuisCarlosJr00/Portif-lio) | Site pessoal em HTML/CSS. |
+| [**DesafioV-backend**](https://github.com/LuisCarlosJr00/DesafioV-backend) | API REST em Node.js/Express + MongoDB para o projeto Desafio V (destinos e atrações turísticas). |
+| [**DesafioV-frontend**](https://github.com/LuisCarlosJr00/DesafioV-frontend) | Frontend que consome a API do DesafioV-backend para exibir pontos turísticos. |
 
 ## 📊 GitHub Stats
 
